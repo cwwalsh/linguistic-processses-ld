@@ -1,0 +1,32 @@
+#begin document (tes); part 000
+tes  0 0  Albert  (3|(5
+tes  0 1  Einstein  5)
+tes  0 2  and  -
+tes  0 3  Kiera  -
+tes  0 4  Cullen  3)
+tes  0 5  were  -
+tes  0 6  pretty  -
+tes  0 7  neat  -
+tes  0 8  .  -
+
+tes  0 0  They  (3)
+tes  0 1  made  -
+tes  0 2  things  -
+tes  0 3  .  -
+
+tes  0 0  He  (5)
+tes  0 1  was  -
+tes  0 2  old  -
+tes  0 3  and  -
+tes  0 4  she  (7)
+tes  0 5  was  -
+tes  0 6  young  -
+tes  0 7  .  -
+
+tes  0 0  She  (7)
+tes  0 1  was  -
+tes  0 2  an  -
+tes  0 3  engineer  -
+tes  0 4  .  -
+
+#end document
