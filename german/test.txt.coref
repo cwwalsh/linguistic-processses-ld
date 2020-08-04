@@ -1,0 +1,23 @@
+1	Klaus	Klaus	N	NE	Masc|Nom|Sg	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|Masc|Nom|Sg	4	det	_	(0
+4	Mann	Mann	N	NN	Masc|Nom|Sg	2	pred	_	0)
+5	,	,	$,	$,	_	0	root	_	-
+6	der	die	PRO	PRELS	Masc|Nom|Sg	9	subj	_	(0)
+7	sehr	sehr	ADV	ADV	_	8	adv	_	-
+8	dick	dick	ADV	ADJD	Pos|	9	pred	_	-
+9	ist	sein	V	VAFIN	3|Sg|Pres|Ind	4	rel	_	-
+10  .	.	$.	$.	_	0	root	_	-
+
+1	Klaus	Klaus	N	NE	Masc|Nom|Sg	2	subj	_	(1)
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	-
+3	ein	eine	ART	ART	Indef|_|_|Sg	4	det	_	-
+4	Polizei	Polizei	N	NN	_|Nom|Sg	2	pred	_	-
+5	,	,	$,	$,	_	0	root	_	-
+6	aber	aber	KON	KON	_	2	kon	_	-
+7	er	er	PRO	PPER	3|Sg|Masc|Nom	8	subj	_	(1)
+8	kann	können	V	VMFIN	3|Sg|Pres|Ind	6	cj	_	-
+9	nicht	nicht	PTKNEG	PTKNEG	_	10	adv	_	-
+10	laufen	laufen	V	VVINF	_	8	aux	_	-
+11	.	.	$.	$.	_	0	root	_	-
+

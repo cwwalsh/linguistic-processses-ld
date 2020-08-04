@@ -84,7 +84,7 @@ class Converter:
           line = "%s  0 %d  %s  %s\n" % (document_name, index, w.get_word(), coref_string)
           file.write(line)
           
-          index = index + 1
+          index = += 1
         
         file.write("\n")
 

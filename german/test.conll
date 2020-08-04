@@ -1,0 +1,24 @@
+#begin document (test); part 000
+test   0   0      Klaus     -            -         -    -   -          -         *             (1)
+test   0   1        ist     -            -         -    -   -          -         *             -
+test   0   2        ein     -            -         -    -   -          -         *             -
+test   0   3       Mann     -            -         -    -   -          -         *             -
+test   0   4          ,     -            -         -    -   -          -         *             -
+test   0   5        der     -            -         -    -   -          -         *             (1)
+test   0   6       sehr     -            -         -    -   -          -         *             -
+test   0   7       dick     -            -         -    -   -          -         *             -
+test   0   8        ist     -            -         -    -   -          -         *             -
+test   0   9          .     -            -         -    -   -          -         *             -
+
+test   0   0      Klaus     -            -         -    -   -          -         *             (1)
+test   0   1        ist     -            -         -    -   -          -         *             -
+test   0   2        ein     -            -         -    -   -          -         *             -
+test   0   3    Polizei     -            -         -    -   -          -         *             -
+test   0   4          ,     -            -         -    -   -          -         *             -
+test   0   5       aber     -            -         -    -   -          -         *             -
+test   0   6         er     -            -         -    -   -          -         *             (1)
+test   0   7       kann     -            -         -    -   -          -         *             -
+test   0   8      nicht     -            -         -    -   -          -         *             -
+test   0   9     laufen     -            -         -    -   -          -         *             -
+
+#end document
