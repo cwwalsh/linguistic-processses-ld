@@ -26,7 +26,7 @@ with open(format_file ,"w") as file:
       word_number = 0
     else:  
       line_pieces = line.split()
-      file.write("%s  0 %d  %s  %s\n" % (file_name, word_number, line_pieces[1], line_pieces[9]))
+      file.write("%s  000 %d  %s  %s\n" % (file_name, word_number, line_pieces[1], line_pieces[9]))
       word_number += 1
   
-  file.write("#end document\n")
+  file.write("\n#end document\n")
