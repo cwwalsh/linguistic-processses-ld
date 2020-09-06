@@ -3,7 +3,7 @@ import os
 import re
 
 #get name to use for document and path to document from command parameters
-#this tool accepts files that have already been parsed by Corzu, or in theory any file similar in the CONLL format
+#this tool accepts files that have already been parsed by Corzu, or in theory any file similar in the CONLL format CorZu uses
 file_path = sys.argv[1]
 file_name = sys.argv[2]
 

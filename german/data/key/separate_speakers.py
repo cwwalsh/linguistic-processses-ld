@@ -1,3 +1,5 @@
+#quick rough script to split the Dirndl key file into the two speakers
+
 with open("./Candidaten_Act5.part.xml.r2r7.0.Dirndl.conll", "r") as key_file:
   lines = key_file.read().splitlines()
 
