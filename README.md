@@ -9,4 +9,4 @@ One needs to download a copy of the Stanford CoreNLP server following the instru
 
 ## For German
 
-Firstly. `sfst` and its requirements need to be installed on the machine. After this, running the `./german/ParZu/install.sh` should download and configure all the relevant external tools and models for tagging and morphological analysis.
+Firstly, `sfst` and its requirements need to be installed on the machine. After this, running the `./german/ParZu/install.sh` should download and configure all the relevant external tools and models for tagging and morphological analysis.
